@@ -256,6 +256,10 @@ form {
   padding: 20px;
 }
 
+.active_link{
+	color: white;
+}
+
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
@@ -353,6 +357,7 @@ Full-Width Styles
 .tar_download_link:hover {
   background: url(../images/sprite_download.png) no-repeat top right;
 }
+
 
 #main_content_wrap {
   background: #f2f2f2;
