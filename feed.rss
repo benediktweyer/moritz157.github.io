@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0">
+
+  <channel>
+    <title>Moritz157 Entwicklungs-Blog</title>
+    <link>http://moritz157.github.io</link>
+    <description>RSS-Feed mit allen News bezüglich Hard-/Softwareprojekten</description>
+    <language>de-de</language>
+    <copyright>Moritz157</copyright>
+    <pubDate>Samstag, 23.01.2016 11:26</pubDate>
+    <image>
+      <url>https://pbs.twimg.com/profile_images/609737629442174976/MEnD5KgO.png</url>
+      <title>Logo</title>
+      <link>http://moritz157.github.io</link>
+    </image>
+
+    <item>
+      <title>Hello World</title>
+      <description>Kurze Zusammenfassung des Eintrags</description>
+      <link>https://google.com</link>
+      <author>Moritz157</author>
+      <guid>hello-world</guid>
+      <pubDate>23.01.2016 11:26</pubDate>
+    </item>
+  </channel>
+
+</rss>
